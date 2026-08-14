@@ -1,0 +1,8 @@
+# Ignore all audio files
+*.mp3
+*.ogg
+*.wav
+*.flac
+
+# Allow the hidden .gitkeep files so the empty folders are pushed
+!*.gitkeep

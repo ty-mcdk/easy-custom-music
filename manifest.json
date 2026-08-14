@@ -1,0 +1,18 @@
+{
+  "id": "easy_custom_music",
+  "name": "Easy Custom Music",
+  "version": "1.0.0",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "game_version": ">=0.1.88",
+  "category": "GAMEPLAY",
+  "priority": 100,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "incompatible": [],
+  "games": ["gen1"],
+  "experimental": false,
+  "description": "Allows User to drag & drop their own music to replace in-game music"
+}
