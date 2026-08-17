@@ -110,7 +110,7 @@ This is a directory map of every specific location available in the mod, corresp
 
 # Limitations
 
-Using .ogg Opus may cause errors due to a limitation with thge Love 2D engine. Please only use .ogg Vorbis format
+Using .ogg Opus may cause errors due to a limitation with the Love 2D engine. Please only use .ogg Vorbis format
 
 Currently only supports one audio file per folder
 
