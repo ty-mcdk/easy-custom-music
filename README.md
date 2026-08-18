@@ -61,12 +61,12 @@ You can also combine general and specific music for ease of us. For example you 
 Due to restrictions on Android beyond the control of the game engine, non-root users may have issues accessing the mod directory to drop their audio files in.
 
 The best current workaround if you can't access the mods folder properly when using Android is as follows:
-    - Download the latest release of this mod from https://github.com/ty-mcdk/easy-custom-music/releases
-    - Unzip the mod (you may need a 3rd party app if one isn't already installed on your device)
-    - Place your audio tracks as usual inside `(unzipped mod folder)/assets/...`
-    - Compress/zip the mod folder once again with the added audio tracks inside
-    - Open the game launcher
-    - Select the option to import the mod zip
+1. Download the latest release of this mod from https://github.com/ty-mcdk/easy-custom-music/releases
+2. Unzip the mod (you may need a 3rd party app if one isn't already installed on your device)
+3. Place your audio tracks as usual inside `(unzipped mod folder)/assets/...`
+4. Compress/zip the mod folder once again with the added audio tracks inside
+5. Open the game launcher
+6. Select the option to import the mod zip
 
 Unfortunately our hands are tied and there is literally no other way of doing this if you have a restricted Android device (typically phones)
 
