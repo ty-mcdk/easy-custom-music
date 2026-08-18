@@ -6,3 +6,5 @@
 
 # Allow the hidden .gitkeep files so the empty folders are pushed
 !*.gitkeep
+
+*.kate-swp
